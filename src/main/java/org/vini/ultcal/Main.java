@@ -1,6 +1,6 @@
-package com.example.app;
+package org.vini.ultcal;
 
-import com.example.app.core.App;
+import org.vini.ultcal.core.App;
 import javafx.application.Application;
 
 /**

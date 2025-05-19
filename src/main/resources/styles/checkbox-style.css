@@ -1,0 +1,11 @@
+.custom-checkbox .box {
+    -fx-shape: "M 50, 50 m -40, 0 a 40,40 0 1,0 80,0 a 40,40 0 1,0 -80,0";
+    -fx-border-color: #CCCCCC;
+    -fx-border-width: 1;
+    -fx-background-color: transparent;
+    -fx-padding: 2;
+    -fx-min-width: 20;
+    -fx-min-height: 20;
+    -fx-max-height: 20;
+    -fx-max-width: 20;
+}
